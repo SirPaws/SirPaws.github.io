@@ -1,5 +1,7 @@
 # My projects
-Currently i don't have any projects here, but I will update it as soon as i have any.
+Currently i only have one project here, but I will hopefully update it when i have any others.
+
+[From Noob To Master In 10 Days (university project)](https://sirpaws.github.io/projects/FromNoobToMasterIn10Days/)
 
 ## Github
 If you are interested in what I'm doing then checkout my Github.
